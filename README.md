@@ -19,17 +19,6 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  ### 🏆 Pencapaian GitHub
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=denalhutabarat&theme=tokyonight&no-bg=true&margin-w=4" alt="github-trophy" />
-  </a>
-</p>
-
----
-
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
@@ -62,6 +51,20 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 <div align="center">
   <img src="https://github.com/denalhutabarat/denalhutabarat/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+
+---
+
+### 🚀 My Proyek 
+<table border="0">
+  <tr>
+    <td width="100%" valign="top">
+      <h4>01. Portofolio Denal 🌐</h4>
+      <p>Membangun platform responsif yang memberikan solusi efisien bagi pengguna.</p>
+      <p><code>React</code> <code>Tailwind</code> <code>Firebase</code></p>
+      <p><a href="#https://denalhutabarat.vercel.app">Source Code</a> • <a href="#https://denalhutabarat.vercel.app">Live Demo</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
