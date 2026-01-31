@@ -33,7 +33,7 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 <div align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denalhutabarat&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denalhutabarat&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denalhutabarat&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
 ---
