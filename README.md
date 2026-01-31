@@ -67,16 +67,10 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
           Platform portofolio personal yang dirancang dengan simpel.
         </p>
         <p align="left">
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
         </p>
         <br>
         <p align="left">
-          <a href="https://github.com/denalhutabarat" target="_blank">
-            <img src="https://img.shields.io/badge/Lihat_Code-24292e?style=for-the-badge&logo=github" />
-          </a>
           <a href="https://denalhutabarat.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Kunjungi_Situs-blue?style=for-the-badge&logo=vercel" />
           </a>
