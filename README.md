@@ -61,20 +61,6 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 ---
 
-### 🚀 Proyek Unggulan
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>01. Nama Proyek Web 🌐</h4>
-      <p>Membangun platform responsif yang memberikan solusi efisien bagi pengguna.</p>
-      <p><code>React</code> <code>Tailwind</code> <code>Firebase</code></p>
-      <p><a href="#">Source Code</a> • <a href="#">Live Demo</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📫 Mari Terkoneksi
 <p align="left">
 <a href="https://linkedin.com/in/denalhutabarat" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
