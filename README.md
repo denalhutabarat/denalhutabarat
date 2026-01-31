@@ -15,7 +15,7 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 - 🚀 **Keahlian:** Backend Web Development
 - 🌱 **Sedang Belajar:** AI Engineering & Cloud Architecture
-- 💬 **Tanya saya tentang:** JavaScript, Python
+- 💬 **Tanya saya tentang:** JavaScript, Python, React, Mysql
 
 ---
 
