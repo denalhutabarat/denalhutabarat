@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Halo,+Saya+Denal+Hutabarat;Seorang+Developer+Enthusiast;Mari+berkolaborasi+bersama!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Halo,+Saya+Denal+Hutabarat;Seorang+Web+Developer;Mari+berkolaborasi+bersama!" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=denalhutabarat&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
@@ -13,9 +13,9 @@
 ### 💫 Tentang Saya
 Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi yang bisa menjadi solusi bagi masalah nyata. Saat ini saya fokus mengasah kemampuan di bidang **Fullstack Development** dan selalu terbuka untuk tantangan baru atau kolaborasi proyek inovatif. **Mari kita bangun sesuatu yang luar biasa bersama!**
 
-- 🚀 **Keahlian:** Fullstack Web Development
+- 🚀 **Keahlian:** Backend Web Development
 - 🌱 **Sedang Belajar:** AI Engineering & Cloud Architecture
-- 💬 **Tanya saya tentang:** JavaScript, Python, atau UI/UX Design
+- 💬 **Tanya saya tentang:** JavaScript, Python
 
 ---
 
@@ -29,7 +29,7 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mysql,python,git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mysql,python,git,vscode,figma" />
   </a>
 </p>
 
