@@ -58,22 +58,25 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
   <table border="0">
     <tr>
       <td width="100%" align="left" style="border-radius: 10px; padding: 20px; background-color: #0d1117;">
-        <img src="https://img.shields.io/badge/Featured_Project-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
-        <br><br>
-        <h2 align="left">🌐 Portofolio Denal</h2>
-        <p align="left">
-          Platform portofolio personal yang dirancang dengan simpel.
-        </p>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-        </p>
-        <br>
-        <p align="left">
-          <a href="https://denalhutabarat.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Kunjungi_Situs-blue?style=for-the-badge&logo=vercel" />
-          </a>
-        </p>
-      </td>
+  <img src="https://img.shields.io/badge/My-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  <br><br>
+  <h2 align="left">🌐 Portofolio Denal</h2>
+  <p align="left">
+    Platform portofolio personal yang dirancang dengan simpel menggunakan teknologi web fundamental.
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </p>
+  <br>
+  <p align="left">
+    <a href="https://denalhutabarat.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Kunjungi_Situs-blue?style=for-the-badge&logo=vercel" />
+    </a>
+  </p>
+</td>
     </tr>
   </table>
 </div>
