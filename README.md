@@ -21,7 +21,11 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denalhutabarat&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
+  ### 🏆 Pencapaian GitHub
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=denalhutabarat&theme=tokyonight&no-bg=true&margin-w=4" alt="github-trophy" />
+  </a>
 </p>
 
 ---
