@@ -11,9 +11,9 @@
 ---
 
 ### 💫 Tentang Saya
-Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi yang bisa menjadi solusi bagi masalah nyata. Saat ini saya fokus mengasah kemampuan di bidang **Backend Development** dan selalu terbuka untuk tantangan baru atau kolaborasi proyek inovatif. **Mari kita bangun sesuatu yang luar biasa bersama!**
+Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi yang bisa menjadi solusi bagi masalah nyata. Saat ini saya fokus mengasah kemampuan di bidang **Fullstack Development** dan selalu terbuka untuk tantangan baru atau kolaborasi proyek inovatif. **Mari kita bangun sesuatu yang luar biasa bersama!**
 
-- 🚀 **Keahlian:** Backend Web Development
+- 🚀 **Keahlian:** Fullstack Web Development
 - 🌱 **Sedang Belajar:** AI Engineering & Cloud Architecture
 - 💬 **Tanya saya tentang:** JavaScript, Python, React, Mysql
 
