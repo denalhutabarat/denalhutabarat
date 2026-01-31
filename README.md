@@ -52,13 +52,13 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 ---
 
-### 🚀 Proyek Portofolio
+### 🚀 Project Portofolio
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="100%" align="left" style="border-radius: 10px; padding: 20px; background-color: #0d1117;">
-  <img src="https://img.shields.io/badge/My-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/My Project-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
   <br><br>
   <h2 align="left">🌐 Portofolio Denal</h2>
   <p align="left">
