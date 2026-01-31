@@ -56,7 +56,7 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 ### 🐍 My Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/denalhutabarat/denalhutabarat/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/denalhutabarat/denalhutabarat/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
