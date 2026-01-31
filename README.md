@@ -29,23 +29,24 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 ---
 
 ### 📊 Statistik GitHub & WakaTime
-<p align="center">
-  ### 📊 Statistik GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=denalhutabarat&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denalhutabarat&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denalhutabarat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denalhutabarat&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=denalhutabarat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-</p>
+<br>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=denalhutabarat&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=denalhutabarat&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=denalhutabarat&layout=compact&theme=tokyonight" alt="WakaTime" />
+</div>
 
 ---
 
