@@ -54,17 +54,37 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 ---
 
-### 🚀 My Proyek 
-<table border="0">
-  <tr>
-    <td width="100%" valign="top">
-      <h4>01. Portofolio Denal 🌐</h4>
-      <p>Membangun platform responsif yang memberikan solusi efisien bagi pengguna.</p>
-      <p><code>React</code> <code>Tailwind</code> <code>Firebase</code></p>
-      <p><a href="#https://denalhutabarat.vercel.app">Source Code</a> • <a href="#https://denalhutabarat.vercel.app">Live Demo</a></p>
-    </td>
-  </tr>
-</table>
+### 🚀 Proyek Portofolio
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="100%" align="left" style="border-radius: 10px; padding: 20px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/Featured_Project-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+        <br><br>
+        <h2 align="left">🌐 Portofolio Denal</h2>
+        <p align="left">
+          Platform portofolio personal yang dirancang dengan simpel.
+        </p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        </p>
+        <br>
+        <p align="left">
+          <a href="https://github.com/denalhutabarat" target="_blank">
+            <img src="https://img.shields.io/badge/Lihat_Code-24292e?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://denalhutabarat.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Kunjungi_Situs-blue?style=for-the-badge&logo=vercel" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
