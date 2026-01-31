@@ -11,7 +11,7 @@
 ---
 
 ### 💫 Tentang Saya
-Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi yang bisa menjadi solusi bagi masalah nyata. Saat ini saya fokus mengasah kemampuan di bidang **Fullstack Development** dan selalu terbuka untuk tantangan baru atau kolaborasi proyek inovatif. **Mari kita bangun sesuatu yang luar biasa bersama!**
+Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi yang bisa menjadi solusi bagi masalah nyata. Saat ini saya fokus mengasah kemampuan di bidang **Backend Development** dan selalu terbuka untuk tantangan baru atau kolaborasi proyek inovatif. **Mari kita bangun sesuatu yang luar biasa bersama!**
 
 - 🚀 **Keahlian:** Backend Web Development
 - 🌱 **Sedang Belajar:** AI Engineering & Cloud Architecture
@@ -70,12 +70,6 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
       <p><code>React</code> <code>Tailwind</code> <code>Firebase</code></p>
       <p><a href="#">Source Code</a> • <a href="#">Live Demo</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h4>02. API Service ⚙️</h4>
-      <p>Layanan backend yang aman dengan sistem autentikasi terpusat.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code></p>
-      <p><a href="#">Source Code</a> • <a href="#">API Docs</a></p>
-    </td>
   </tr>
 </table>
 
@@ -83,9 +77,9 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 ### 📫 Mari Terkoneksi
 <p align="left">
-<a href="https://linkedin.com/in/[LINKEDIN_KAMU]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/[IG_KAMU]" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:[EMAIL_KAMU]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/denalhutabarat" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/yhnnshtbrt" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:denalhutabarat16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
