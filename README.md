@@ -85,7 +85,7 @@ Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi ya
 
 ### 📫 Mari Terkoneksi
 <p align="left">
-<a href="[https://linkedin.com/in/denalhutabarat](https://www.linkedin.com/in/denal-yohannes-hutabarat-a9b11b392?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/denal-yohannes-hutabarat-a9b11b392?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/yhnnshtbrt" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:denalhutabarat16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
