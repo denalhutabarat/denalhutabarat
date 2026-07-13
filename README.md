@@ -1,103 +1,289 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Halo,+Saya+Denal+Hutabarat;Seorang+Web+Developer;Mari+berkolaborasi+bersama!" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=denalhutabarat&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/badge/Status-Coding_Sekarang-brightgreen?style=flat-square&logo=wakatime" alt="WakaTime" />
-    <img src="https://img.shields.io/badge/-Open_To_Work-blue?style=flat-square&logo=target" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=220&section=header&text=Denal%20Hutabarat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Building+Digital+Products;Automation+%7C+AI+%7C+SaaS+Enthusiast;Turning+Ideas+Into+Reality"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=denalhutabarat&label=Profile%20Views&color=36BCF7&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/denalhutabarat?label=Followers&style=flat-square&color=36BCF7"/>
+<img src="https://img.shields.io/badge/Status-Building%20Projects-success?style=flat-square"/>
+
 </div>
 
+
+# 👋 About Me
+
+```javascript
+const denal = {
+    name: "Denal Hutabarat",
+    role: "Fullstack Developer",
+
+    focus: [
+        "Web Application",
+        "Automation System",
+        "AI Integration",
+        "Cloud Architecture"
+    ],
+
+    currentlyBuilding: [
+        "SaaS Platforms",
+        "Developer Tools",
+        "Automation Products"
+    ],
+
+    philosophy:
+        "Build technology that solves real problems."
+}
+```
+
+Saya adalah seorang developer yang suka membangun sesuatu dari nol.
+Bukan hanya membuat website, tetapi menciptakan **produk digital yang memiliki fungsi nyata dan dapat digunakan banyak orang**.
+
+Saat ini saya fokus mengembangkan kemampuan di bidang:
+
+- 🚀 Fullstack Development
+- 🤖 AI Engineering
+- ☁️ Cloud Infrastructure
+- ⚙️ Automation System
+
+
 ---
 
-### 💫 Tentang Saya
-Saya percaya bahwa kode yang baik bukan hanya yang berjalan tanpa error, tapi yang bisa menjadi solusi bagi masalah nyata. Saat ini saya fokus mengasah kemampuan di bidang **Fullstack Development** dan selalu terbuka untuk tantangan baru atau kolaborasi proyek inovatif. **Mari kita bangun sesuatu yang luar biasa bersama!**
+# 🧠 What I Build
 
-- 🚀 **Keahlian:** Fullstack Web Development
-- 🌱 **Sedang Belajar:** AI Engineering & Cloud Architecture
-- 💬 **Tanya saya tentang:** JavaScript, Python, React, Mysql
+
+### 🌐 Web Applications
+
+Membangun aplikasi modern dengan arsitektur yang scalable, responsive, dan mudah dikembangkan.
+
+
+### 🤖 Automation Tools
+
+Membuat sistem otomatisasi untuk mengurangi pekerjaan manual dan meningkatkan produktivitas.
+
+
+### ☁️ Cloud Based Services
+
+Mengembangkan aplikasi dengan deployment modern dan infrastruktur yang efisien.
+
+
+### 🛠 Developer Tools
+
+Membuat tools yang membantu developer maupun pengguna umum.
+
 
 ---
 
-### 🛠 Tech Stack & Tools
+# 🚀 Featured Projects
+
+
+## 🐝 DeployHive
+
+> Static Website Deployment Platform
+
+
+Platform yang memudahkan pengguna melakukan deploy website hanya dengan upload file ZIP.
+
+
+**Technology**
+
+```
+Vue.js
+Node.js
+Express
+Vercel
+Cloud Storage
+```
+
+
+Features:
+
+- Upload website ZIP
+- Automatic deployment
+- Project management
+- Fast publishing
+
+
+---
+
+
+## ⚡ Lexxy Builder
+
+> Automated Application Builder Platform
+
+
+Sistem otomatisasi untuk melakukan build aplikasi Flutter melalui bot.
+
+
+**Technology**
+
+```
+Node.js
+Telegram Bot
+Flutter
+Docker
+GitHub API
+```
+
+
+Features:
+
+- APK Builder
+- Queue System
+- Premium System
+- Automated Processing
+
+
+---
+
+
+## 🤖 AI & Automation System
+
+Membangun berbagai eksperimen:
+
+- AI powered tools
+- Bot automation
+- API integration
+- Productivity systems
+
+
+---
+
+# 🛠 Tech Stack
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,vue,python,php,laravel,mysql,mongodb,git,docker,linux,figma,vscode"/>
+
+</div>
+
+
+---
+
+# 📚 Currently Learning
+
+
+🌱 Improving:
+
+- System Design
+- Cloud Architecture
+- AI Engineering
+- Backend Scalability
+
+
+🎯 Goal:
+
+Membangun produk digital yang dapat membantu banyak orang.
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denalhutabarat&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denalhutabarat&layout=compact&theme=tokyonight&count_private=true"/>
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=denalhutabarat&theme=tokyonight&hide_border=true&area=true"/>
+
+</div>
+
+
+---
+
+# 🏆 GitHub Trophy
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=denalhutabarat&theme=tokyonight&no-frame=true&row=1"/>
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://github.com/denalhutabarat/denalhutabarat/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+# 📈 Developer Journey
+
+
+```
+2024
+│
+├── Started Web Development
+│
+2025
+│
+├── Built Automation Systems
+├── Created Bot Applications
+│
+2026
+│
+└── Building SaaS Products & AI Solutions
+```
+
+
+---
+
+# 🌎 Let's Connect
+
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mysql,python,git,vscode,figma" />
-  </a>
+
+<a href="https://www.linkedin.com/in/denal-yohannes-hutabarat-a9b11b392">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/yhnnshtbrt">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:denalhutabarat16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
----
 
-### 📊 Statistik GitHub & WakaTime
+---
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denalhutabarat&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denalhutabarat&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="Top Languages" />
-</div>
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-### 📈 Tren Aktivitas
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=denalhutabarat&theme=tokyonight&area=true&hide_border=true" />
-</p>
+<br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
 
-### 🐍 My Contribution Snake
-<div align="center">
-  <img src="https://github.com/denalhutabarat/denalhutabarat/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<br>
 
----
+<i>
+Building ideas into digital products.
+</i>
 
-### 🚀 Project Portofolio
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="100%" align="left" style="border-radius: 10px; padding: 20px; background-color: #0d1117;">
-  <img src="https://img.shields.io/badge/My Project-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
-  <br><br>
-  <h2 align="left">🌐 Portofolio Denal</h2>
-  <p align="left">
-    Platform portofolio personal yang dirancang dengan simpel menggunakan teknologi web fundamental.
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </p>
-  <br>
-  <p align="left">
-    <a href="https://denalhutabarat.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Kunjungi_Situs-blue?style=for-the-badge&logo=vercel" />
-    </a>
-  </p>
-</td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📫 Mari Terkoneksi
-<p align="left">
-<a href="https://www.linkedin.com/in/denal-yohannes-hutabarat-a9b11b392?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/yhnnshtbrt" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:denalhutabarat16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
-</p>
-
-<div align="center">
-  <i>Terakhir diperbarui: 2026 • Dirancang dengan penuh dedikasi oleh Denal Hutabarat</i>
 </div>
